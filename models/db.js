@@ -6,7 +6,7 @@ var getConnection = function(){
 		host:'localhost',
 		user: 'root',
 		password: '',
-		database: 'labtesta'
+		database: 'labxm'
 	});
 	 
 	connection.connect(function(err) {
